@@ -22,79 +22,63 @@ Required.exe
 
 Before you can install and play the game, we need to install some requirements.
 
+Run the following executable
+```
+Required.exe
 ```
 
-```
+Once you have successfully installed the prerequisites, continue to the Installation guide
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+The following is a step by step guide to getting Frogs And Flies up and running on your local machine.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+The first step would be to unzip the following file
 
 ```
-until finished
+Frogs-And-Flies.zip
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+You should see the following folders after unzipping:
 
 ```
-Give an example
+Game{DISK 1}
+```
+```
+Goodies{DISK 2}
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
+Next navigate to the following folder:
 
 ```
-Give an example
+/Game{DISK 1}/Frogs And Flies
 ```
 
-## Deployment
+Move the following file into the above directory:
 
-Add additional notes about how to deploy this on a live system
+```
+FrogsFlies_Distribution_Console_Game.exe
+```
+
+And you are done! Run the above file and enjoy the game. 
+Don't forget to add any comments on the game here on GitHub and I'll be sure to look into all of them.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [C++](http://www.cplusplus.com/) - Porgramming language used
+* [Visual Studio IDE](https://www.visualstudio.com/) - IDE used for programming and debugging
+* [YouTube](https://www.youtube.com/) - Used to host tutorial videos
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Kaylen Travis Pillay** - *Initial work* - [Kaylen-Travis-Pillay](https://github.com/Kaylen-Travis-Pillay/Code/tree/master/C%2B%2B/Frogs%20and%20Flies-%20Word%20game)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL-3.0 - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* To all members of Team-Alpha BC
+* Builders of the C++ reference guide {link in Built With section}
 
