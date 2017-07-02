@@ -4,14 +4,26 @@ Frogs and Flies is an interactive word game the facilitates the teaching and lea
 
 ## Getting Started
 
-To get started please head on over to [Frogs And Flies Beta Release](https://github.com/Kaylen-Travis-Pillay/Frogs-And-Flies/releases/tag/v1.0.0) and download all the required files. Next download this file [Frogs And Flies- Word Game](https://github.com/Kaylen-Travis-Pillay/Frogs-And-Flies/raw/master/Frogs-And-Flies.zip)
+To get started please head on over to [Frogs And Flies Beta Release](https://github.com/Kaylen-Travis-Pillay/Frogs-And-Flies/releases/tag/v1.0.0) and download all the required files. Next download this file [Frogs And Flies- Word Game](https://github.com/Kaylen-Travis-Pillay/Frogs-And-Flies/raw/master/Frogs-And-Flies.zip).
+
+You should have the following files:
+
+```
+Frogs-And-Flies.zip
+```
+```
+FrogsFlies_Distribution_Console_Game.exe
+```
+```
+Required.exe
+```
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Before you can install and play the game, we need to install some requirements.
 
 ```
-Give examples
+
 ```
 
 ### Installing
