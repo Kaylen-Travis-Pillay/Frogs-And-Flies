@@ -73,6 +73,8 @@ Don't forget to add any comments on the game here on GitHub and I'll be sure to 
 
 * **Kaylen Travis Pillay** - *Initial work* - [Kaylen-Travis-Pillay](https://github.com/Kaylen-Travis-Pillay/Code/tree/master/C%2B%2B/Frogs%20and%20Flies-%20Word%20game)
 
+* **Mpilwenhle Sanele Maphanga** - *Initial work, Contribution* - [Mpilo-Maphanga](https://github.com/Mpilo-Maphanga)
+
 ## License
 
 This project is licensed under the GPL-3.0 - see the [LICENSE.md](LICENSE.md) file for details
