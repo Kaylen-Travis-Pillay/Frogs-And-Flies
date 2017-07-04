@@ -75,6 +75,8 @@ Don't forget to add any comments on the game here on GitHub and I'll be sure to 
 
 * **Mpilwenhle Sanele Maphanga** - *Initial work, Contribution* - [Mpilo-Maphanga](https://github.com/Mpilo-Maphanga)
 
+* **Kimyran Chetty** - *Initial work, Contribution* - [Kimyran-Chetty](https://github.com/Kimyran-Chetty)
+
 ## License
 
 This project is licensed under the GPL-3.0 - see the [LICENSE.md](LICENSE.md) file for details
